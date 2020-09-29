@@ -1,0 +1,9 @@
+[package]
+name = "ctron"
+version = "0.1.0"
+authors = ["Jens Reimann <jreimann@redhat.com>"]
+edition = "2018"
+license = "MIT"
+description = "Want to say hello to ctron, you now can with this simple command line application."
+
+[dependencies]
