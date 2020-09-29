@@ -1,9 +1,12 @@
 [package]
 name = "ctron"
-version = "0.1.0"
+version = "0.2.1"
 authors = ["Jens Reimann <jreimann@redhat.com>"]
 edition = "2018"
 license = "MIT"
-description = "Want to say hello to ctron, you now can with this simple command line application."
+description = "About ctron"
+homepage = "https://dentrassi.de"
+repository = "https://github.com/ctron/ctron-rs"
 
 [dependencies]
+colored = "2"
